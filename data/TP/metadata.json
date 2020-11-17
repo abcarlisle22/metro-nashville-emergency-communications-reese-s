@@ -1,0 +1,76 @@
+{
+    "release": {
+        "id": "acs2018_5yr",
+        "name": "ACS 2018 5-year",
+        "years": "2014-2018"
+    },
+    "tables": {
+        "B25026": {
+            "columns": {
+                "B25026001": {
+                    "indent": 0,
+                    "name": "Total population in occupied housing units:"
+                },
+                "B25026002": {
+                    "indent": 1,
+                    "name": "Owner occupied:"
+                },
+                "B25026003": {
+                    "indent": 2,
+                    "name": "Moved in 2017 or later"
+                },
+                "B25026004": {
+                    "indent": 2,
+                    "name": "Moved in 2015 to 2016"
+                },
+                "B25026005": {
+                    "indent": 2,
+                    "name": "Moved in 2010 to 2014"
+                },
+                "B25026006": {
+                    "indent": 2,
+                    "name": "Moved in 2000 to 2009"
+                },
+                "B25026007": {
+                    "indent": 2,
+                    "name": "Moved in 1990 to 1999"
+                },
+                "B25026008": {
+                    "indent": 2,
+                    "name": "Moved in 1989 or earlier"
+                },
+                "B25026009": {
+                    "indent": 1,
+                    "name": "Renter occupied:"
+                },
+                "B25026010": {
+                    "indent": 2,
+                    "name": "Moved in 2017 or later"
+                },
+                "B25026011": {
+                    "indent": 2,
+                    "name": "Moved in 2015 to 2016"
+                },
+                "B25026012": {
+                    "indent": 2,
+                    "name": "Moved in 2010 to 2014"
+                },
+                "B25026013": {
+                    "indent": 2,
+                    "name": "Moved in 2000 to 2009"
+                },
+                "B25026014": {
+                    "indent": 2,
+                    "name": "Moved in 1990 to 1999"
+                },
+                "B25026015": {
+                    "indent": 2,
+                    "name": "Moved in 1989 or earlier"
+                }
+            },
+            "denominator_column_id": "B25026001",
+            "title": "Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit",
+            "universe": "Total Population in Occupied Housing Units"
+        }
+    }
+}
